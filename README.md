@@ -1,0 +1,1 @@
+# dpocheketa.hotel-widget
